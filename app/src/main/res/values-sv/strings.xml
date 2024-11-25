@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Main strings -->
+    <string name="app_name">Better World</string>
+    <string name="navigation_drawer_open">Öppna navigationsmeny</string>
+    <string name="navigation_drawer_close">Stäng navigationsmeny</string>
+    <string name="add_ingredient">Lägg till ingrediens</string>
+    <string name="calculate_emissions">Beräkna utsläpp</string>
+    <string name="app_title">CO2-utsläppsberäknare för mat</string>
+    <string name="settings">Inställningar</string>
+    <string name="dark_mode">Mörkt läge</string>
+    <string name="app_icon">App-ikon</string>
+    <string name="app_logo">Better World Logotyp</string>
+    <string name="language">Språk</string>
+    <string name="logout">Logga ut</string>
+
+    <!-- Home screen strings -->
+    <string name="food">Mat</string>
+    <string name="car">Bil</string>
+    <string name="sunday">Sön</string>
+    <string name="monday">Mån</string>
+    <string name="tuesday">Tis</string>
+    <string name="wednesday">Ons</string>
+    <string name="thursday">Tor</string>
+    <string name="friday">Fre</string>
+    <string name="saturday">Lör</string>
+    <string name="highest_day">Högsta dag: %1$s (%2$.1f kg)</string>
+    <string name="lowest_day">Lägsta dag: %1$s (%2$.1f kg)</string>
+    <string name="total_food_emissions">Mat utsläpp</string>
+    <string name="total_car_emissions">Bil utsläpp</string>
+
+    <!-- Calculator strings -->
+    <string name="food_calculator">Matkalkylator</string>
+    <string name="food_calculator_subtitle">Beräkna din mats koldioxidavtryck</string>
+    <string name="total_emissions">Totala utsläpp</string>
+    <string name="calculator_add_ingredient">Lägg till ingrediens</string>
+    <string name="calculate">Beräkna</string>
+    <string name="select_food">Välj matvaror</string>
+    <string name="servings">Portioner</string>
+    <string name="typical_serving">Typisk portion: %1$s = %2$dg</string>
+    <string name="please_select_food">Välj minst en matvara</string>
+    <string name="impact_very_low">Mycket låg påverkan</string>
+    <string name="impact_low">Låg påverkan</string>
+    <string name="impact_moderate">Måttlig påverkan</string>
+    <string name="impact_high">Hög påverkan</string>
+    <string name="impact_very_high">Mycket hög påverkan</string>
+    <string name="grains">Spannmål</string>
+    <string name="vegetables">Grönsaker</string>
+    <string name="proteins">Proteiner</string>
+    <string name="food_white_rice">Vitt ris</string>
+    <string name="food_wheat_bread">Fullkornsbröd</string>
+    <string name="food_pasta">Pasta</string>
+    <string name="food_quinoa">Quinoa</string>
+    <string name="food_potatoes">Potatis</string>
+    <string name="food_tomatoes">Tomater</string>
+    <string name="food_lettuce">Sallad</string>
+    <string name="food_carrots">Morötter</string>
+    <string name="food_chicken">Kycklingbröst</string>
+    <string name="food_beef">Nötkött</string>
+    <string name="food_tofu">Tofu</string>
+    <string name="food_eggs">Ägg</string>
+    <string name="serving_cup_cooked">1 kopp tillagad</string>
+    <string name="serving_bread_slices">2 skivor</string>
+    <string name="serving_medium">1 medium</string>
+    <string name="serving_2_cups">2 koppar</string>
+    <string name="serving_1_cup">1 kopp</string>
+    <string name="serving_medium_piece">1 medelstor bit</string>
+    <string name="serving_half_cup">1/2 kopp</string>
+    <string name="serving_2_large">2 stora</string>
+
+    <!-- Rewards strings -->
+    <string name="rewards_title">Belöningar</string>
+    <string name="points_display">%d BetterPoints</string>
+    <string name="futurefinder_title">FutureFinder</string>
+    <string name="futurefinder_description">En månads gratis provperiod på FutureFinder</string>
+    <string name="ecorose_title">EcoRose</string>
+    <string name="ecorose_description">10% rabatt på miljövänliga produkter</string>
+    <string name="points_required">%d BetterPoints behövs</string>
+    <string name="not_enough_points">Inte tillräckligt med BetterPoints</string>
+    <string name="redeem_reward">LÖS IN BELÖNING</string>
+
+    <!-- Reward Dialog Strings -->
+    <string name="verification_title">Verifierar belöning…</string>
+    <string name="verification_message">Vänligen vänta medan vi behandlar din inlösen</string>
+    <string name="success_title">Grattis! 🌟</string>
+    <string name="futurefinder_success_message">Du har löst in %1$d poäng för en gratis provmånad!\n\nGenom att välja FutureFinder tar du ett steg mot en mer hållbar framtid. Denna inlösen motsvarar en besparing på %2$d kg CO2! 🌍</string>
+    <string name="ecorose_success_message">Du har bidragit med %1$d poäng till miljövänlig shopping!\n\nDitt val att stödja hållbara företag hjälper till att skapa en bättre värld. Denna inlösen motsvarar plantering av %2$d träd! 🌳</string>
+    <string name="claim_instructions_futurefinder">Redo att starta din gratisperiod? 🎉\n\n1. Klicka nedan för att besöka %1$s på Instagram\n2. Skicka dem ett meddelande med din kod: FF-%2$d\n3. De svarar med din aktiveringskod\n\nTack för att du väljer hållbara lösningar! 💫</string>
+    <string name="claim_instructions_ecorose">Redo att hämta din belöning? 🎉\n\n1. Klicka nedan för att besöka %1$s på Instagram\n2. Skicka dem ett meddelande med din kod: ECO-%2$d\n3. De svarar med din rabattkod på 10%%\n\nTack för att du stödjer hållbara företag! 💚</string>
+    <string name="next">Nästa</string>
+    <string name="open_instagram">Öppna Instagram</string>
+    <string name="later">Senare</string>
+
+    <!-- Navigation strings -->
+    <string name="nav_home">Hem</string>
+    <string name="nav_calculator">Kalkylator</string>
+    <string name="nav_tasks">Uppgifter</string>
+    <string name="nav_rewards">Belöningar</string>
+    <string name="nav_settings">Inställningar</string>
+
+    <!-- Task-related strings -->
+    <string name="daily_tasks">Dagliga Uppgifter</string>
+    <string name="take_photo_proof">Ta Fotobevis</string>
+    <string name="task_completed">Slutförd</string>
+    <string name="points_format">%d BetterPoints</string>
+
+    <!-- Task validation messages -->
+    <string name="validating_photo">Validerar foto…</string>
+    <string name="photo_verified">Foto verifierat!</string>
+    <string name="calculating_reward">Beräknar belöning…</string>
+    <string name="congratulations_points">Grattis!\nDu tjänade %d BetterPoints!</string>
+    <string name="camera_permission_required">Kameraåtkomst krävs för att ta foton</string>
+    <string name="camera_start_error">Kunde inte starta kameran: %s</string>
+
+    <!-- Task titles -->
+    <string name="task_public_transport">Åk Kollektivt</string>
+    <string name="task_plant_tree">Plantera ett Träd</string>
+    <string name="task_zero_waste">Noll Avfall-Dag</string>
+    <string name="task_bike">Cykla till Jobbet/Skolan</string>
+    <string name="task_local_food">Handla Lokalt</string>
+    <string name="task_energy_saving">Energibesparing</string>
+    <string name="task_composting">Kompostering</string>
+    <string name="task_reusable">Återanvändbara Behållare</string>
+    <string name="task_water">Vattenbesparing</string>
+    <string name="task_meatless">Vegetarisk Dag</string>
+
+    <!-- Task descriptions -->
+    <string name="desc_public_transport">Använd kollektivtrafik istället för att köra bil</string>
+    <string name="desc_plant_tree">Plantera ett träd i ditt närområde</string>
+    <string name="desc_zero_waste">Generera inget avfall under en hel dag</string>
+    <string name="desc_bike">Använd cykel för din dagliga pendling</string>
+    <string name="desc_local_food">Handla matvaror från lokal bondemarknad</string>
+    <string name="desc_energy_saving">Använd endast naturligt ljus under en dag</string>
+    <string name="desc_composting">Starta en kompost för matavfall</string>
+    <string name="desc_reusable">Använd endast återanvändbara behållare under en dag</string>
+    <string name="desc_water">Minska duschtiden till 5 minuter</string>
+    <string name="desc_meatless">Ät endast växtbaserade måltider under en dag</string>
+
+    <!-- Settings strings -->
+    <string name="settings_profile_section">Profil</string>
+    <string name="settings_preferences_section">Inställningar</string>
+    <string name="settings_account_section">Konto</string>
+    <string name="settings_appearance_section">Utseende</string>
+    <string name="settings_email">E-post</string>
+    <string name="settings_password">Lösenord</string>
+    <string name="settings_change_password">Ändra lösenord</string>
+    <string name="settings_dark_mode">Mörkt läge</string>
+    <string name="theme_change_message">Tema uppdaterat</string>
+    <string name="language_change_message">Språk uppdaterat</string>
+    <string name="settings_current_password">Nuvarande lösenord</string>
+    <string name="settings_new_password">Nytt lösenord</string>
+    <string name="settings_confirm_password">Bekräfta nytt lösenord</string>
+    <string name="settings_password_changed">Lösenord ändrat</string>
+    <string name="settings_password_error">Lösenorden matchar inte</string>
+    <string name="settings_current_password_error">Nuvarande lösenord är felaktigt</string>
+    <string name="button_save">Spara</string>
+    <string name="button_cancel">Avbryt</string>
+
+    <!-- Additional strings -->
+    <string name="closed">Stäng</string>
+    <string name="weekly_co2_savings">Veckans CO₂-besparingar</string>
+    <string name="daily_co2_emissions">Dagliga CO₂-utsläpp</string>
+
+    <!-- Statistics and Tips -->
+    <string name="statistics">Statistik</string>
+    <string name="eco_tips">Miljötips</string>
+    <string name="new_tip">Nytt tips</string>
+    <string name="kg_co2_saved" formatted="false">%.1f / %.1f kg CO₂</string>
+
+    <!-- Eco Tips Array -->
+    <string-array name="eco_tips_array">
+        <item>Gå eller cykla för korta resor istället för att köra bil</item>
+        <item>Använd återanvändbara påsar, flaskor och behållare</item>
+        <item>Stäng av lampor och elektronik när de inte används</item>
+        <item>Ät mer växtbaserade måltider och mindre kött</item>
+        <item>Använd kollektivtrafik när det är möjligt</item>
+        <item>Minska matsvinn genom att planera måltider och portioner</item>
+        <item>Välj lokala och säsongsbetonade produkter</item>
+        <item>Använd energieffektiva apparater och LED-lampor</item>
+        <item>Börja kompostera köksavfall</item>
+        <item>Ta kortare duschar för att spara vatten och energi</item>
+        <item>Använd återanvändbar vattenflaska istället för att köpa flaskvatten</item>
+        <item>Plantera träd eller starta en liten trädgård</item>
+        <item>Köp begagnade saker när det är möjligt</item>
+        <item>Isolera ditt hem ordentligt för att spara energi</item>
+        <item>Stöd miljövänliga och lokala företag</item>
+    </string-array>
+</resources>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Dark Theme Colors -->
+    <color name="backgroundColor">#121212</color>
+    <color name="surfaceColor">@color/dark_surface</color>
+    <color name="cardBackground">#1E1E1E</color>
+    <color name="inputBackground">#1E1E1E</color>
+    <color name="dividerColor">#2A2A2A</color>
+    <color name="rippleColor">#1FFFFFFF</color>
+    <color name="scrim">#80000000</color>
+
+    <!-- Text Colors for Dark Theme -->
+    <color name="textPrimary">#FFFFFF</color>
+    <color name="textSecondary">#B3FFFFFF</color>
+    <color name="text_primary">@color/text_primary_dark</color>
+    <color name="text_secondary">@color/text_secondary_dark</color>
+    <color name="text_disabled">@color/text_disabled_dark</color>
+
+    <!-- Dark Theme App Colors -->
+    <color name="colorPrimary">#FFB74D</color>
+    <color name="colorPrimaryDark">#FFA726</color>
+    <color name="colorAccent">#FFE0B2</color>
+    <color name="colorAccentDark">#FFB74D</color>
+</resources>

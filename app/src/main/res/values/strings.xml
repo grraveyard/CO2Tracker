@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Existing strings -->
+    <string name="app_name">Better World</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="add_ingredient">Add Ingredient</string>
+    <string name="calculate_emissions">Calculate Emissions</string>
+    <string name="app_title">Food CO2 Emissions Calculator</string>
+    <string name="app_icon">App Logo</string>
+    <string name="app_logo">Better World Logo</string>
+    <string name="language">Language</string>
+    <string name="logout">Logout</string>
+    <string name="dark_mode">Dark Mode</string>
+
+    <!-- Rewards Strings -->
+    <string name="rewards_title">Rewards</string>
+    <string name="points_display">%d BetterPoints</string>
+    <string name="futurefinder_title">FutureFinder</string>
+    <string name="futurefinder_description">One month free trial to FutureFinder website</string>
+    <string name="ecorose_title">EcoRose</string>
+    <string name="ecorose_description">10% discount on eco-friendly items</string>
+    <string name="points_required">%d BetterPoints required</string>
+    <string name="not_enough_points">Not enough BetterPoints</string>
+    <string name="redeem_reward">REDEEM REWARD</string>
+
+    <!-- Reward Dialog Strings -->
+    <string name="verification_title">Verifying reward…</string>
+    <string name="verification_message">Please wait while we process your redemption</string>
+    <string name="success_title">Congratulations! 🌟</string>
+    <string name="futurefinder_success_message">You\'ve redeemed %1$d BetterPoints for a free one-month trial!\n\nBy choosing FutureFinder, you\'re taking a step towards a more sustainable future. This redemption is equivalent to saving %2$d kg of CO2! 🌍</string>
+    <string name="ecorose_success_message">You\'ve contributed %1$d BetterPoints towards eco-friendly shopping!\n\nYour choice to support sustainable businesses helps create a better world. This redemption is equivalent to planting %2$d trees! 🌳</string>
+    <string name="claim_instructions_futurefinder">Ready to start your free trial? 🎉\n\n1. Click the button below to visit %1$s on Instagram\n2. Send them a direct message with your unique code: FF-%2$d\n3. They\'ll respond with your free trial activation code\n\nThank you for choosing sustainable solutions! 💫</string>
+    <string name="claim_instructions_ecorose">Ready to claim your reward? 🎉\n\n1. Click the button below to visit %1$s on Instagram\n2. Send them a direct message with your unique code: ECO-%2$d\n3. They\'ll respond with your exclusive 10%% discount code\n\nThank you for supporting sustainable businesses! 💚</string>
+    <string name="next">Next</string>
+    <string name="open_instagram">Open Instagram</string>
+
+    <!-- Task-related strings -->
+    <string name="daily_tasks">Daily Tasks</string>
+    <string name="take_photo_proof">Take Photo Proof</string>
+    <string name="task_completed">Completed</string>
+    <string name="points_format">%d BetterPoints</string>
+
+    <!-- Task validation messages -->
+    <string name="validating_photo">Validating photo…</string>
+    <string name="photo_verified">Photo verified!</string>
+    <string name="calculating_reward">Calculating reward…</string>
+    <string name="congratulations_points">Congratulations!\nYou earned %d BetterPoints!</string>
+    <string name="camera_permission_required">Camera permission is required to take photos</string>
+    <string name="camera_start_error">Failed to start camera: %s</string>
+
+    <!-- Task titles -->
+    <string name="task_public_transport">Use Public Transport</string>
+    <string name="task_plant_tree">Plant a Tree</string>
+    <string name="task_zero_waste">Zero Waste Day</string>
+    <string name="task_bike">Bike to Work/School</string>
+    <string name="task_local_food">Local Food Shopping</string>
+    <string name="task_energy_saving">Energy Saving</string>
+    <string name="task_composting">Composting</string>
+    <string name="task_reusable">Reusable Containers</string>
+    <string name="task_water">Water Conservation</string>
+    <string name="task_meatless">Go Meatless</string>
+
+    <!-- Task descriptions -->
+    <string name="desc_public_transport">Take public transportation instead of driving</string>
+    <string name="desc_plant_tree">Plant a tree in your local area</string>
+    <string name="desc_zero_waste">Generate no waste for an entire day</string>
+    <string name="desc_bike">Use a bicycle for your daily commute</string>
+    <string name="desc_local_food">Buy groceries from local farmers market</string>
+    <string name="desc_energy_saving">Use only natural light for a day</string>
+    <string name="desc_composting">Start a compost bin for food waste</string>
+    <string name="desc_reusable">Use only reusable containers for a day</string>
+    <string name="desc_water">Reduce shower time to 5 minutes</string>
+    <string name="desc_meatless">Eat only plant-based meals for a day</string>
+
+    <!-- Additional strings -->
+    <string name="later">Later</string>
+    <string name="closed">Close</string>
+
+    <!-- Calculator/Tracker strings -->
+    <string name="food_calculator">Food Calculator</string>
+    <string name="food_calculator_subtitle">Calculate your food\'s carbon footprint</string>
+    <string name="total_emissions">Total Emissions</string>
+    <string name="calculator_add_ingredient">Add Ingredient</string>
+    <string name="calculate">Calculate</string>
+    <string name="select_food">Select food item</string>
+    <string name="servings">Servings</string>
+    <string name="typical_serving">Typical serving: %1$s = %2$dg</string>
+    <string name="please_select_food">Please select at least one food item</string>
+
+    <!-- Impact levels -->
+    <string name="impact_very_low">Very Low Impact</string>
+    <string name="impact_low">Low Impact</string>
+    <string name="impact_moderate">Moderate Impact</string>
+    <string name="impact_high">High Impact</string>
+    <string name="impact_very_high">Very High Impact</string>
+
+    <!-- Food categories -->
+    <string name="grains">Grains</string>
+    <string name="vegetables">Vegetables</string>
+    <string name="proteins">Proteins</string>
+
+    <!-- Food items -->
+    <string name="food_white_rice">White Rice</string>
+    <string name="food_wheat_bread">Whole Wheat Bread</string>
+    <string name="food_pasta">Pasta</string>
+    <string name="food_quinoa">Quinoa</string>
+    <string name="food_potatoes">Potatoes</string>
+    <string name="food_tomatoes">Tomatoes</string>
+    <string name="food_lettuce">Lettuce</string>
+    <string name="food_carrots">Carrots</string>
+    <string name="food_chicken">Chicken Breast</string>
+    <string name="food_beef">Beef Steak</string>
+    <string name="food_tofu">Tofu</string>
+    <string name="food_eggs">Eggs</string>
+
+    <!-- Serving descriptions -->
+    <string name="serving_cup_cooked">1 cup cooked</string>
+    <string name="serving_bread_slices">2 slices</string>
+    <string name="serving_medium">1 medium</string>
+    <string name="serving_2_cups">2 cups</string>
+    <string name="serving_1_cup">1 cup</string>
+    <string name="serving_medium_piece">1 medium piece</string>
+    <string name="serving_half_cup">1/2 cup</string>
+    <string name="serving_2_large">2 large</string>
+
+    <!-- Settings strings -->
+    <string name="settings">Settings</string>
+    <string name="settings_profile_section">Profile</string>
+    <string name="settings_preferences_section">Preferences</string>
+    <string name="settings_account_section">Account</string>
+    <string name="settings_appearance_section">Appearance</string>
+    <string name="settings_email">Email</string>
+    <string name="settings_password">Password</string>
+    <string name="settings_change_password">Change password</string>
+    <string name="settings_dark_mode">Dark Mode</string>
+    <string name="theme_change_message">Theme updated</string>
+    <string name="language_change_message">Language updated</string>
+    <string name="settings_current_password">Current Password</string>
+    <string name="settings_new_password">New Password</string>
+    <string name="settings_confirm_password">Confirm New Password</string>
+    <string name="settings_password_changed">Password changed successfully</string>
+    <string name="settings_password_error">Passwords do not match</string>
+    <string name="settings_current_password_error">Current password is incorrect</string>
+    <string name="button_save">Save</string>
+    <string name="button_cancel">Cancel</string>
+
+    <!-- Navigation -->
+    <string name="nav_home">Home</string>
+    <string name="nav_calculator">Calculator</string>
+    <string name="nav_tasks">Tasks</string>
+    <string name="nav_rewards">Rewards</string>
+    <string name="nav_settings">Settings</string>
+
+    <!-- Home Page Strings -->
+    <string name="weekly_co2_savings">Weekly CO₂ Savings</string>
+    <string name="daily_co2_emissions">Daily CO₂ Emissions</string>
+    <string name="statistics">Statistics</string>
+    <string name="total_food_emissions">Total Food Emissions</string>
+    <string name="total_car_emissions">Total Car Emissions</string>
+    <string name="eco_tips">Eco Tips</string>
+    <string name="new_tip">New Tip</string>
+    <string name="food">Food</string>
+    <string name="car">Car</string>
+    <string name="highest_day">Highest: %1$s (%2$.1f kg)</string>
+    <string name="lowest_day">Lowest: %1$s (%2$.1f kg)</string>
+    <string name="kg_co2_saved" formatted="false">%.1f / %.1f kg CO₂ saved</string>
+
+    <!-- Days of Week -->
+    <string name="sunday">Sun</string>
+    <string name="monday">Mon</string>
+    <string name="tuesday">Tue</string>
+    <string name="wednesday">Wed</string>
+    <string name="thursday">Thu</string>
+    <string name="friday">Fri</string>
+    <string name="saturday">Sat</string>
+
+    <!-- Eco Tips Array -->
+    <string-array name="eco_tips_array">
+        <item>Walk or bike for short trips instead of driving</item>
+        <item>Use reusable bags, bottles, and containers</item>
+        <item>Turn off lights and electronics when not in use</item>
+        <item>Eat more plant-based meals and less meat</item>
+        <item>Use public transportation when possible</item>
+        <item>Reduce food waste by planning meals and portions</item>
+        <item>Choose local and seasonal products</item>
+        <item>Use energy-efficient appliances and LED lights</item>
+        <item>Start composting kitchen waste</item>
+        <item>Take shorter showers to save water and energy</item>
+        <item>Use a reusable water bottle instead of buying bottled water</item>
+        <item>Plant trees or start a small garden</item>
+        <item>Buy second-hand items when possible</item>
+        <item>Properly insulate your home to save energy</item>
+        <item>Support eco-friendly and local businesses</item>
+    </string-array>
+</resources>

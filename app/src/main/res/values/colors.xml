@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Material Default Colors -->
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- App Theme Colors -->
+    <color name="colorPrimary">#FF7F7F</color>
+    <color name="colorPrimaryDark">#FF6B6B</color>
+    <color name="colorAccent">#FFB5B5</color>
+    <color name="colorAccentDark">#FF9999</color>
+    <color name="error">#F44336</color>
+
+    <!-- Background Colors -->
+    <color name="backgroundColor">@color/white</color>
+    <color name="surfaceColor">@color/white</color>
+    <color name="inputBackground">#F5F5F5</color>
+    <color name="backgroundColorDark">#121212</color>
+    <color name="surfaceColorDark">#1E1E1E</color>
+    <color name="dark_surface">@color/surfaceColorDark</color>
+    <color name="dark_background">@color/backgroundColorDark</color>
+    <color name="dark_card_background">#2D2D2D</color>
+
+    <!-- Text Colors -->
+    <color name="textPrimary">@color/black</color>
+    <color name="textSecondary">#757575</color>
+    <color name="text_primary">#DE000000</color>
+    <color name="text_secondary">#99000000</color>
+    <color name="text_disabled">#61000000</color>
+    <color name="text_primary_dark">#DEFFFFFF</color>
+    <color name="text_secondary_dark">#99FFFFFF</color>
+    <color name="text_disabled_dark">#61FFFFFF</color>
+
+    <!-- Navigation Colors -->
+    <color name="nav_selected">@color/colorPrimary</color>
+    <color name="nav_unselected">#757575</color>
+    <color name="nav_selected_dark">@color/colorPrimaryDark</color>
+    <color name="nav_unselected_dark">#757575</color>
+
+    <!-- Additional UI Colors -->
+    <color name="shadow">#29000000</color>
+    <color name="overlay_light">#0F000000</color>
+    <color name="overlay_dark">#1F000000</color>
+    <color name="dividerColor">#EEEEEE</color>
+    <color name="scrim">#52000000</color>
+    <color name="rippleColor">#1F000000</color>
+    <color name="gray">#757575</color>
+    <color name="light_gray">#EEEEEE</color>
+    <color name="cardBackground">@color/white</color>
+</resources>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Base dark application theme -->
+    <style name="Base.Theme.CO2Tracker" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Primary brand color -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryVariant">@color/colorPrimaryDark</item>
+        <item name="colorOnPrimary">@color/black</item>
+
+        <!-- Secondary brand color -->
+        <item name="colorSecondary">@color/colorAccent</item>
+        <item name="colorSecondaryVariant">@color/colorAccentDark</item>
+        <item name="colorOnSecondary">@color/black</item>
+
+        <!-- Status bar color -->
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+
+        <!-- Text colors -->
+        <item name="android:textColorPrimary">@color/textPrimary</item>
+        <item name="android:textColorSecondary">@color/textSecondary</item>
+
+        <!-- Background and surface colors -->
+        <item name="android:colorBackground">@color/backgroundColorDark</item>
+        <item name="colorSurface">@color/surfaceColorDark</item>
+        <item name="colorOnSurface">@color/textPrimary</item>
+        <item name="android:windowBackground">@color/backgroundColorDark</item>
+
+        <!-- Material specific attributes -->
+        <item name="materialCardViewStyle">@style/Widget.App.CardView</item>
+        <item name="switchStyle">@style/Widget.App.Switch</item>
+        <item name="buttonStyle">@style/Widget.MaterialComponents.Button</item>
+
+        <!-- Custom styles -->
+        <item name="appBarLayoutStyle">@style/Widget.App.AppBarLayout</item>
+        <item name="cardViewStyle">@style/Widget.App.CardView</item>
+    </style>
+
+    <!-- Main theme that inherits from base -->
+    <style name="Theme.CO2Tracker" parent="Base.Theme.CO2Tracker" />
+</resources>
